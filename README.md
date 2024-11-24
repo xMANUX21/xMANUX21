@@ -12,7 +12,7 @@
 - **Herramientas**: Git, Docker.
   
   ### 🎯 Objetivo
-  Mi meta es especializarme en backend y machine learning, desarrollando aplicaciones eficientes y seguras que resuelvan problemas reales. Me encanta trabajar en proyectos colaborativos y seguir aprendiendo constantemente.
+  **Mi meta es especializarme en backend y machine learning, desarrollando aplicaciones eficientes y seguras que resuelvan problemas reales. Me encanta trabajar en proyectos colaborativos y seguir aprendiendo constantemente.**
   
   ### 🔗 Conecta conmigo
 - [GitHub](https://github.com/xMANUX21)
