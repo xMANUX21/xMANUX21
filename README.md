@@ -5,13 +5,13 @@
 - Estudiante de Ingeniería de Sistemas.
 - Participante en programas de formación técnica como Campuslands y cursos en plataformas como Udemy y Coursera.
   
-  ### 💻 Habilidades técnicas
+### 💻 Habilidades técnicas
 - **Lenguajes**: Python, JavaScript.
 - **Backend**: 
 - **Bases de datos**: 
 - **Herramientas**: Git, Docker.
   
-  ### 🎯 Objetivo
+### 🎯 Objetivo
   **Mi meta es especializarme en backend y machine learning, desarrollando aplicaciones eficientes y seguras que resuelvan problemas reales. Me encanta trabajar en proyectos colaborativos y seguir aprendiendo constantemente.**
   
   ### 🔗 Conecta conmigo
