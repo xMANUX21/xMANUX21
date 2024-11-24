@@ -16,7 +16,7 @@
   
   ### 🔗 Conecta conmigo
 - [GitHub](https://github.com/xMANUX21)
-- [LinkedIn](www.linkedin.com/in/manuel-cubillos-797970316)
+- [LinkedIn](https://www.linkedin.com/in/manuel-cubillos/)
 
 
 <!---
