@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Manuel Cubillos! </h1>
+<h1 align="center"> ¡Hola, soy Manuel Cubillos! </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -16,7 +16,7 @@
 🔥 **Apasionado por el Backend y Machine Learning**  
 👨‍💻 Me encanta trabajar en proyectos colaborativos y aprender continuamente  
 
----
+
 
 ## 🛠️ Habilidades Técnicas  
 
@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
+
 
 ## 🎯 Objetivo  
 <p align="center">
   <em>Mi meta es especializarme en backend y machine learning, desarrollando aplicaciones eficientes y seguras que resuelvan problemas reales.</em>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github.com/xMANUX21/xMANUX21/blob/main/assets/divider-light.gif" width="100%" alt="Animated Divider">
