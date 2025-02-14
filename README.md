@@ -6,13 +6,9 @@
   <em>Desarrollador de software en formación, apasionado por aprender y crear soluciones innovadoras.</em>
 </p>
 
-
-
 <p align="center">
-  <img src="https://www.blackhatworld.com/media/line-neon-gif.5029/full" width="100%" alt="Animated Divider">
+  <img src="https://github.com/xMANUX21/animations/blob/main/Wave-siri-unscreen.gif" width="100%" height="20px" alt="Animated Divider">
 </p>
-
----
 
 ## 🚀 Sobre mí  
 🎓 **Estudiante de Ingeniería de Sistemas**  
