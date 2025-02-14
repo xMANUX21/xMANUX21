@@ -43,8 +43,7 @@
   <div class="square">
     <div class="name">Manuel Cubillos</div>
   </div>
-</body>
-</html>
+
 
 
 ## 🚀 Sobre mí  
@@ -105,3 +104,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+</body>
+</html>
