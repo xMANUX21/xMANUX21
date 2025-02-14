@@ -6,7 +6,7 @@
   <em>Desarrollador de software en formación, apasionado por aprender y crear soluciones innovadoras.</em>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github.com/xMANUX21/xMANUX21/blob/main/assets/divider-light.gif" width="100%" alt="Animated Divider">
