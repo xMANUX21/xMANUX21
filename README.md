@@ -1,18 +1,51 @@
-<h1 align="center">👋 ¡Hola, soy Manuel Cubillos! </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animación Cuadrada</title>
+  <style>
+    .square {
+      width: 200px;
+      height: 200px;
+      position: relative;
+      border: 2px solid black;
+      margin: 50px auto;
+      animation: move 5s infinite;
+    }
+    
+    .name {
+      position: absolute;
+      font-size: 20px;
+      font-weight: bold;
+      color: #3498db;
+      animation: move-text 5s infinite;
+    }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <br>
-  <em>Desarrollador de software en formación, apasionado por aprender y crear soluciones innovadoras.</em>
-</p>
+    @keyframes move {
+      0%, 100% { left: 0; top: 0; }
+      25% { left: 200px; top: 0; }
+      50% { left: 200px; top: 200px; }
+      75% { left: 0; top: 200px; }
+      100% { left: 0; top: 0; }
+    }
 
----
+    @keyframes move-text {
+      0% { left: 0; top: 0; }
+      25% { left: 200px; top: 0; }
+      50% { left: 200px; top: 200px; }
+      75% { left: 0; top: 200px; }
+      100% { left: 0; top: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="square">
+    <div class="name">Manuel Cubillos</div>
+  </div>
+</body>
+</html>
 
-<p align="center">
-  <img src="https://github.com/xMANUX21/animations/blob/main/J59.gif" width="100%" alt="Animated Divider">
-</p>
-
----
 
 ## 🚀 Sobre mí  
 🎓 **Estudiante de Ingeniería de Sistemas**  
